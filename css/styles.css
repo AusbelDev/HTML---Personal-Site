@@ -1,0 +1,26 @@
+body {
+  background-color: #334756;
+}
+
+hr {
+  background-color: None;
+  border-style: dotted none none;
+  color: grey;
+  width: 40px;
+  border-top-width: 5px;
+}
+
+h1 {
+  color: #ecb365;
+  font-family: "JetBrains Mono";
+}
+
+h3 {
+  color: #ecb365;
+  font-family: "JetBrains Mono";
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url("https://fonts.googleapis.com/css?family=JetBrains Mono");
+}
